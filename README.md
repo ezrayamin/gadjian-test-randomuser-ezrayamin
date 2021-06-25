@@ -6,7 +6,7 @@ simply fork this repository, and
 ### `git clone ${url link}`
 
 once you finished cloning this repository, type this on your terminal
-### `cd gadjian-test-ezrayamin`
+### `cd gadjian-test-randomuser-ezrayamin`
 
 ## Open the repo in your device
 before opening the files, please type this for installation
